@@ -1,0 +1,6 @@
+{
+  "name": "Rule-Based AI Chatbot",
+  "description": "A beginner-friendly rule-based AI chatbot built with Python concepts, featuring interactive console execution and full source code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
