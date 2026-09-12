@@ -72,8 +72,7 @@ python app.py**
 
 After running the application, open the following address in your web browser:
 
-**text
-http://127.0.0.1:5000/**
+**http://127.0.0.1:5000/**
 
 This address works when the Flask application is running on your computer.
 
