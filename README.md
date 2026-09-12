@@ -44,33 +44,7 @@ rule-based-chatbot/
 └── .gitignore
 ```
 
-## How to Run the Project
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/YOUR-USERNAME/rule-based-chatbot.git
-```
-
-### 2. Open the Project Folder
-
-```bash
-cd rule-based-chatbot
-```
-
-### 3. Install the Required Dependencies
-
-**bash
-pip install -r requirements.txt**
-
-### 4. Run the Flask Application
-
-**bash
-python app.py**
-
-### 5. Open the Chatbot
-
-After running the application, open the following address in your web browser:
+Live Project:
 
 **http://127.0.0.1:5000/**
 
